@@ -1,4 +1,4 @@
-module market-broker.com
+module market-broker
 
 go 1.24.5
 
